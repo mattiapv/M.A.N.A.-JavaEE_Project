@@ -1,0 +1,6 @@
+<option value="0">Qualsiasi</option>
+<option value="1">1 stella</option>
+<option value="2">2 stelle</option>
+<option value="3">3 stelle</option>
+<option value="4">4 stelle</option>
+<option value="5">5 stelle</option>

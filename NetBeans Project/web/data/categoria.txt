@@ -1,0 +1,60 @@
+<option>Tutte le categorie</option>
+                    
+                    <option>- MOTORI -</option>
+                    
+                        <option>Auto</option>
+                        <option>Accessori Auto</option>
+                        <option>Moto e Scooter</option>
+                        <option>Accessori Moto</option>
+                        <option>Nautica</option>
+                        <option>Caravan e Camper</option>
+                        <option>Veicoli commerciali</option>
+                        
+                    <option>- IMMOBILI -</option>
+                    
+                        <option>Appartamenti</option>
+                        <option>Camere/Posti letto</option>
+                        <option>Ville singole e a schiera</option>
+                        <option>Terreni e rustici</option>
+                        <option>Garage e box</option>
+                        <option>Loft, mansarde e altro</option>
+                        <option>Case vacanza</option>
+                        <option>Uffici e Locali commerciali</option>
+                        
+                    <option>- LAVORO E SERVIZI -</option>
+                    
+                        <option>Offerte di lavoro</option>
+                        <option>Servizi</option>
+                        <option>Candidati in cerca di lavoro</option>
+                        <option>Attrezzature di lavoro</option>
+                        
+                    <option>- ELETTRONICA -</option>
+                    
+                        <option>Informatica</option>
+                        <option>Console e Videogiochi</option>
+                        <option>Audio/Video</option>
+                        <option>Fotografia</option>
+                        <option>Telefonia</option>
+                        
+                    <option>- PER LA CASA e LA PERSONA -</option>
+                    
+                        <option>Arredamento e Casalinghi</option>
+                        <option>Elettrodomestici</option>
+                        <option>Giardino e Fai da te</option>
+                        <option>Abbigliamento e Accessori</option>
+                        <option>Tutto per i bambini</option>
+                        
+                    <option>- SPORTS E HOBBY -</option>
+                    
+                        <option>Animali</option>
+                        <option>Musica e Film</option>
+                        <option>Libri e Riviste</option>
+                        <option>Strumenti Musicali</option>
+                        <option>Sports</option>
+                        <option>Biciclette</option>
+                        <option>Collezionismo</option>
+                        
+                    
+                        <option disabled= disabled >--</option>
+                    
+                        <option>Altri</option>
